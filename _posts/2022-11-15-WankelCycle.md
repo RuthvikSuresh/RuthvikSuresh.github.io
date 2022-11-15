@@ -22,5 +22,3 @@ Disadvantages:-
 
 2.Poor Fuel Ecomony
 
->We are trying to love coding
-This is quote
