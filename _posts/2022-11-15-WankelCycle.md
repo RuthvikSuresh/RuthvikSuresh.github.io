@@ -9,6 +9,7 @@ published: true
 _The main difference of the rotary engine is the abscence of a crank shaft. Due the non existence of reciprocating masses the Wankel cycle engines are incredibly smooth and tend to produce high outputs per unit displacement_
 
 Advantages:-
+
 1.High specific output
 
 2.Improved NVH
@@ -18,6 +19,7 @@ Advantages:-
 4.Compact Size
 
 Disadvantages:-
+
 1.Tough to pass emmisions due to the abscence of a compression or oil seal
 
 2.Poor Fuel Ecomony
