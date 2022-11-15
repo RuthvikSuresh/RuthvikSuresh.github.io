@@ -2,13 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey There! How You doing?
+I'm Ruth
+I am an aspiring Data Scientist
+this is
 
 ### Contact me
 
